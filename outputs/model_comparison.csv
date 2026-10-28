@@ -1,0 +1,5 @@
+Model,MAE,RMSE,Rank
+Random Forest,0.2247,0.3125,1
+SARIMA,0.3006,0.3754,2
+Linear Regression,0.2671,0.3766,3
+ARIMA,0.5229,0.6562,4

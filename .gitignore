@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Raw large dataset files (GitHub blocks files > 100MB)
+data/raw/household_power_consumption.txt
+data/raw/household_power_consumption.zip
+
+# Large model states (> 100MB)
+models/sarima_model.pkl
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# OS and Editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
